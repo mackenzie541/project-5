@@ -1,7 +1,4 @@
-# Project 5 Repo
-
-
-## Project 5 Learning Outcomes
+# Project 5 Learning Outcomes
 
 
 - Build a RESTful Web Service that stores telephone numbers in a MongoDB (a CRUD app)
