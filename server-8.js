@@ -79,6 +79,7 @@ app.get('/telnum/:id', (req, res, next) => {
 });
 
 //Endpoint to Delete a single tel number
+// Example /deletenum/3
 app.delete('/deletenum/:id', (req, res) => {
   const id = parseInt(req.params.id, 10);
 
